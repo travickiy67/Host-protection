@@ -42,7 +42,7 @@
 
 ![img](https://github.com/travickiy67/Host-protection/blob/main/img/1.2.png)   
 
-*Создаем несколько каталогов и завершаем сесию и пытаемся просмотреть каталог из под sudo*
+*Создаем несколько каталогов и завершаем сесию, и пытаемся просмотреть каталог из под sudo*
 
 ![img](https://github.com/travickiy67/Host-protection/blob/main/img/1.3.png)   
 
@@ -63,7 +63,7 @@
 <details>
 <summary>ОТВЕТ</summary>  
 
-*Создаем раздел 200M гтилитой fdisk*
+*Создаем раздел 200M утилитой fdisk*
 
 ![img](https://github.com/travickiy67/Host-protection/blob/main/img/2.1.png)  
 
